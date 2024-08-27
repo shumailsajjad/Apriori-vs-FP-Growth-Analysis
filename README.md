@@ -13,5 +13,5 @@ Each dataset is provided in CSV/ Excel format and is preprocessed for compatibil
 The project includes Jupyter notebooks for implementing and comparing the Apriori and FP-Growth algorithms.
 
 - **`Apriori algorithm for financial data.ipynb`**: Implementation of the Apriori algorithm for financial data.
-- - **`Apriori algorithm for market basket analysis lab.ipynb`**: Implementation of the Apriori algorithm for i) market basket and ii) ecommerce data analysis.
+- **`Apriori algorithm for market basket analysis lab.ipynb`**: Implementation of the Apriori algorithm for i) market basket and ii) ecommerce data analysis.
 - **`Product Recommendations using FP-Growth.ipynb`**: Implementation of the FP-Growth algorithm market basket analysis.
